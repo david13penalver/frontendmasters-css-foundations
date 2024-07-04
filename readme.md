@@ -1,0 +1,1 @@
+These are my notes on the course of FrontendMasters `CSS Foundations` by Emma Bostian. This course is 3h56min long and it's a great introduction to CSS. I highly recommend it.
